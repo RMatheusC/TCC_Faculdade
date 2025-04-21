@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c3c2f3c1b34ebf4e88eed2d477142ed, type: 3}
+  m_Name: Npc_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 3284107470237341537, guid: 2aec617ed7959824ea8c9aa79114dbec, type: 3}
+  speakerSprite: {fileID: -2255074830942912507, guid: de76b1d7c52bfee40a84a7029188d8f0, type: 3}
+  setntence: Ola mundo
+  dialogues:
+  - actorName: NPC
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Hey, Criatura que se parece comigo
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Venha aqui na sala a direita
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Esta tentando reconquistar a dungeon?
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 0}
+    sentence:
+      portuguese: TOLO!!!!!
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 0}
+    sentence:
+      portuguese: "Para esqueletos, isso \xE9 Impossivel"
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Mas se quiser ir mesmo, escolha uma dessas armas
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 0}
+    sentence:
+      portuguese: "E pegue essa po\xE7\xE3o de vida"
+      english: 
+      spanish: 

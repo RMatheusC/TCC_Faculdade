@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265090233715",
+    "project_id": "jogotcc-e961e",
+    "storage_bucket": "jogotcc-e961e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265090233715:android:6fba4409f05162f9084106",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TaketheDungeon1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265090233715-95otfrk6o46kh4b1the8qf5umj4v4n6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0flfzUeao7-5vLkfUgPVkGZzHD3pATSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265090233715-95otfrk6o46kh4b1the8qf5umj4v4n6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

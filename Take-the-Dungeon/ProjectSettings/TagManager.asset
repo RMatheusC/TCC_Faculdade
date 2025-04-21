@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ClassA
+  - ClassB
+  - ClassC
+  - Fx
+  - Musica
+  - Rooms
+  - SpawnPoint
+  - Arrow
+  - Magic
+  - Magic2
+  - Arrow_enemy
+  - PtVG
+  - PtMG
+  - cetro
+  - arco
+  - Sword
+  - soul
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Jog
+  - Water
+  - UI
+  - Enemy
+  - Porta
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 328336963
+    locked: 0
+  - name: Floor
+    uniqueID: 952536223
+    locked: 0
+  - name: Parede
+    uniqueID: 2867558947
+    locked: 0
+  - name: Item
+    uniqueID: 810362691
+    locked: 0
+  - name: Arma
+    uniqueID: 789471873
+    locked: 0
+  - name: Player
+    uniqueID: 3363915741
+    locked: 0
+  - name: Cura
+    uniqueID: 2156971273
+    locked: 0
+  - name: Escada
+    uniqueID: 4287036047
+    locked: 0
